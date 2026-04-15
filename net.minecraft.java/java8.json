@@ -13,7 +13,7 @@
             "packageType": "jre",
             "releaseTime": "2020-11-17T19:26:25+00:00",
             "runtimeOS": "linux-x64",
-            "url": "https://piston-meta.mojang.com/v1/packages/c529f68a6febc042e71835a579f44d55a3717c46/manifest.json",
+            "url": "https://bmclapi2.bangbang93.com/v1/packages/c529f68a6febc042e71835a579f44d55a3717c46/manifest.json",
             "vendor": "mojang",
             "version": {
                 "major": 8,
@@ -32,7 +32,7 @@
             "packageType": "jre",
             "releaseTime": "2020-11-17T19:28:39+00:00",
             "runtimeOS": "linux-x86",
-            "url": "https://piston-meta.mojang.com/v1/packages/6df5ff7142797f409ec41e0b94124e677927f8e2/manifest.json",
+            "url": "https://bmclapi2.bangbang93.com/v1/packages/6df5ff7142797f409ec41e0b94124e677927f8e2/manifest.json",
             "vendor": "mojang",
             "version": {
                 "major": 8,
@@ -51,7 +51,7 @@
             "packageType": "jre",
             "releaseTime": "2025-10-07T07:43:14+00:00",
             "runtimeOS": "mac-os-x64",
-            "url": "https://piston-meta.mojang.com/v1/packages/78e31aa15b3f437f37263351436f63e0a96e0067/manifest.json",
+            "url": "https://bmclapi2.bangbang93.com/v1/packages/78e31aa15b3f437f37263351436f63e0a96e0067/manifest.json",
             "vendor": "mojang",
             "version": {
                 "buildstr": "cacert462b08",
@@ -89,7 +89,7 @@
             "packageType": "jre",
             "releaseTime": "2025-10-06T13:49:59+00:00",
             "runtimeOS": "windows-x64",
-            "url": "https://piston-meta.mojang.com/v1/packages/03828bb8455f3cef94869286a0d941dd16933239/manifest.json",
+            "url": "https://bmclapi2.bangbang93.com/v1/packages/03828bb8455f3cef94869286a0d941dd16933239/manifest.json",
             "vendor": "mojang",
             "version": {
                 "buildstr": "cacert462b08",
@@ -109,7 +109,7 @@
             "packageType": "jre",
             "releaseTime": "2025-10-06T14:01:29+00:00",
             "runtimeOS": "windows-x86",
-            "url": "https://piston-meta.mojang.com/v1/packages/aa4b820bca217df2ff9bc9b5eaa03907461f5517/manifest.json",
+            "url": "https://bmclapi2.bangbang93.com/v1/packages/aa4b820bca217df2ff9bc9b5eaa03907461f5517/manifest.json",
             "vendor": "mojang",
             "version": {
                 "buildstr": "cacert462b08",

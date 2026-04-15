@@ -10,7 +10,7 @@
         "sha1": "aaf4be9d6e197c384a09b1d9c631c6900d1f077c",
         "size": 529372,
         "totalSize": 439076911,
-        "url": "https://piston-meta.mojang.com/v1/packages/aaf4be9d6e197c384a09b1d9c631c6900d1f077c/29.json"
+        "url": "https://bmclapi2.bangbang93.com/v1/packages/aaf4be9d6e197c384a09b1d9c631c6900d1f077c/29.json"
     },
     "compatibleJavaMajors": [
         21
@@ -613,7 +613,7 @@
             "id": "client-1.21.2.xml",
             "sha1": "39384bd14c0606d812afec88d8aff595b2587dd9",
             "size": 1073,
-            "url": "https://piston-data.mojang.com/v1/objects/39384bd14c0606d812afec88d8aff595b2587dd9/client-1.21.2.xml"
+            "url": "https://bmclapi2.bangbang93.com/v1/objects/39384bd14c0606d812afec88d8aff595b2587dd9/client-1.21.2.xml"
         },
         "type": "log4j2-xml"
     },
@@ -623,7 +623,7 @@
             "artifact": {
                 "sha1": "4509ee9b65f226be61142d37bf05f8d28b03417b",
                 "size": 36734011,
-                "url": "https://piston-data.mojang.com/v1/objects/4509ee9b65f226be61142d37bf05f8d28b03417b/client.jar"
+                "url": "https://bmclapi2.bangbang93.com/v1/objects/4509ee9b65f226be61142d37bf05f8d28b03417b/client.jar"
             }
         },
         "name": "com.mojang:minecraft:1.21.11_unobfuscated:client"

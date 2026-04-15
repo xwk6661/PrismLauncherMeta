@@ -72,7 +72,7 @@
                     "path": "net/neoforged/neoforgespi/8.0.0/neoforgespi-8.0.0.jar",
                     "sha1": "504823c2b4bfec1880b7a80a939af7570ff1862f",
                     "size": 29531,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforgespi/8.0.0/neoforgespi-8.0.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforgespi/8.0.0/neoforgespi-8.0.0.jar"
                 }
             },
             "name": "net.neoforged:neoforgespi:8.0.0"
@@ -602,7 +602,7 @@
                 "artifact": {
                     "sha1": "42f60450e48a0123bc852f6b9d97a50c5a99062f",
                     "size": 8257156,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.57-beta/neoforge-20.4.57-beta-installer.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/20.4.57-beta/neoforge-20.4.57-beta-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:20.4.57-beta:installer"
@@ -2065,7 +2065,7 @@
                     "path": "net/neoforged/neoforge/20.4.57-beta/neoforge-20.4.57-beta-universal.jar",
                     "sha1": "58640a78e4cbf98d3ad4b62a17a95723bc46bc16",
                     "size": 2240065,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.57-beta/neoforge-20.4.57-beta-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/20.4.57-beta/neoforge-20.4.57-beta-universal.jar"
                 }
             },
             "name": "net.neoforged:neoforge:20.4.57-beta:universal"
@@ -2131,7 +2131,7 @@
                     "path": "net/neoforged/neoforgespi/8.0.0/neoforgespi-8.0.0.jar",
                     "sha1": "504823c2b4bfec1880b7a80a939af7570ff1862f",
                     "size": 29531,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforgespi/8.0.0/neoforgespi-8.0.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforgespi/8.0.0/neoforgespi-8.0.0.jar"
                 }
             },
             "name": "net.neoforged:neoforgespi:8.0.0"

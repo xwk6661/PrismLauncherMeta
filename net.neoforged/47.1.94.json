@@ -393,7 +393,7 @@
                 "artifact": {
                     "sha1": "8f4c42fc45c683b3c02f0547c1a8687b56e3c7fb",
                     "size": 7843181,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/forge/1.20.1-47.1.94/forge-1.20.1-47.1.94-installer.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/forge/1.20.1-47.1.94/forge-1.20.1-47.1.94-installer.jar"
                 }
             },
             "name": "net.neoforged:forge:1.20.1-47.1.94:installer"
@@ -415,7 +415,7 @@
                     "path": "com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
                     "sha1": "25ea2e8b0c338a877313bd4672d3fe056ea78f0d",
                     "size": 19936,
-                    "url": "https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
                 }
             },
             "name": "com.google.code.findbugs:jsr305:3.0.2"
@@ -525,7 +525,7 @@
                     "path": "commons-io/commons-io/2.4/commons-io-2.4.jar",
                     "sha1": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
                     "size": 185140,
-                    "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/commons-io/commons-io/2.4/commons-io-2.4.jar"
                 }
             },
             "name": "commons-io:commons-io:2.4"
@@ -536,7 +536,7 @@
                     "path": "commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
                     "sha1": "4bfc12adfe4842bf07b657f0369c4cb522955686",
                     "size": 61829,
-                    "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"
                 }
             },
             "name": "commons-logging:commons-logging:1.2"
@@ -657,7 +657,7 @@
                     "path": "net/neoforged/forge/1.20.1-47.1.94/forge-1.20.1-47.1.94-universal.jar",
                     "sha1": "36c2419b1b22961e6a9254573e265251e6266cf8",
                     "size": 2142640,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/forge/1.20.1-47.1.94/forge-1.20.1-47.1.94-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/forge/1.20.1-47.1.94/forge-1.20.1-47.1.94-universal.jar"
                 }
             },
             "name": "net.neoforged:forge:1.20.1-47.1.94:universal"
@@ -668,7 +668,7 @@
                     "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
                     "sha1": "4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c",
                     "size": 78146,
-                    "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
                 }
             },
             "name": "net.sf.jopt-simple:jopt-simple:5.0.4"

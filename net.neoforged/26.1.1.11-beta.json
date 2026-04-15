@@ -259,7 +259,7 @@
                     "path": "com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
                     "sha1": "b421526c5f297295adef1c886e5246c39d4ac629",
                     "size": 2199,
-                    "url": "https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
                 }
             },
             "name": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"
@@ -270,7 +270,7 @@
                     "path": "com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar",
                     "sha1": "4381275efdef6ddfae38f002c31e84cd001c97f0",
                     "size": 20389,
-                    "url": "https://libraries.minecraft.net/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar"
                 }
             },
             "name": "com.google.errorprone:error_prone_annotations:2.41.0"
@@ -281,7 +281,7 @@
                     "path": "com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar",
                     "sha1": "a892ca9507839bbdb900d64310ac98256cab992f",
                     "size": 16762,
-                    "url": "https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar"
                 }
             },
             "name": "com.google.j2objc:j2objc-annotations:3.1"
@@ -305,7 +305,7 @@
                 "artifact": {
                     "sha1": "29dbabcdce1944bdf2ec95ff12d8e69a2f544a20",
                     "size": 11221225,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.1.11-beta/neoforge-26.1.1.11-beta-installer.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/26.1.1.11-beta/neoforge-26.1.1.11-beta-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:26.1.1.11-beta:installer"
@@ -547,7 +547,7 @@
                     "path": "org/lwjgl/lwjgl-tinyfd/3.4.1/lwjgl-tinyfd-3.4.1.jar",
                     "sha1": "562697d40dbd2ed0424bf24dcf65d51170f81adf",
                     "size": 15931,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.1/lwjgl-tinyfd-3.4.1.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/lwjgl/lwjgl-tinyfd/3.4.1/lwjgl-tinyfd-3.4.1.jar"
                 }
             },
             "name": "org.lwjgl:lwjgl-tinyfd:3.4.1"
@@ -558,7 +558,7 @@
                     "path": "org/lwjgl/lwjgl/3.4.1/lwjgl-3.4.1.jar",
                     "sha1": "6105690714874b995aa7812e4f7732a21109276c",
                     "size": 1157957,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.4.1/lwjgl-3.4.1.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/lwjgl/lwjgl/3.4.1/lwjgl-3.4.1.jar"
                 }
             },
             "name": "org.lwjgl:lwjgl:3.4.1"
@@ -580,7 +580,7 @@
                     "path": "com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
                     "sha1": "b421526c5f297295adef1c886e5246c39d4ac629",
                     "size": 2199,
-                    "url": "https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
                 }
             },
             "name": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"
@@ -591,7 +591,7 @@
                     "path": "com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar",
                     "sha1": "4381275efdef6ddfae38f002c31e84cd001c97f0",
                     "size": 20389,
-                    "url": "https://libraries.minecraft.net/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar"
                 }
             },
             "name": "com.google.errorprone:error_prone_annotations:2.41.0"
@@ -602,7 +602,7 @@
                     "path": "com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar",
                     "sha1": "a892ca9507839bbdb900d64310ac98256cab992f",
                     "size": 16762,
-                    "url": "https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar"
                 }
             },
             "name": "com.google.j2objc:j2objc-annotations:3.1"
@@ -635,7 +635,7 @@
                     "path": "net/neoforged/neoforge/26.1.1.11-beta/neoforge-26.1.1.11-beta-universal.jar",
                     "sha1": "16efab2c34ae9641a53837f8b22ba4171387e627",
                     "size": 7493014,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.1.11-beta/neoforge-26.1.1.11-beta-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/26.1.1.11-beta/neoforge-26.1.1.11-beta-universal.jar"
                 }
             },
             "name": "net.neoforged:neoforge:26.1.1.11-beta:universal"

@@ -503,7 +503,7 @@
                 "artifact": {
                     "sha1": "b7790bc2e5120a0181aa09bf7e81c8ae9c935533",
                     "size": 6756983,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.12/neoforge-21.1.12-installer.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/21.1.12/neoforge-21.1.12-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:21.1.12:installer"
@@ -954,7 +954,7 @@
                     "path": "net/neoforged/neoforge/21.1.12/neoforge-21.1.12-universal.jar",
                     "sha1": "a7c1ab0b2cb04c998c2f87bde5b29837e00f033a",
                     "size": 2882221,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.12/neoforge-21.1.12-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/21.1.12/neoforge-21.1.12-universal.jar"
                 }
             },
             "name": "net.neoforged:neoforge:21.1.12:universal"

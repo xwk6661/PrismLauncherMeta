@@ -503,7 +503,7 @@
                 "artifact": {
                     "sha1": "64d9fedd99676cc43b5aeda63140ff41a246ea63",
                     "size": 6979696,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.6-beta/neoforge-21.4.6-beta-installer.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/21.4.6-beta/neoforge-21.4.6-beta-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:21.4.6-beta:installer"
@@ -1240,7 +1240,7 @@
                     "path": "net/neoforged/neoforge/21.4.6-beta/neoforge-21.4.6-beta-universal.jar",
                     "sha1": "b9c7a1178f89d317eda6d297f01d43b83d178d9c",
                     "size": 3054009,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.6-beta/neoforge-21.4.6-beta-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/21.4.6-beta/neoforge-21.4.6-beta-universal.jar"
                 }
             },
             "name": "net.neoforged:neoforge:21.4.6-beta:universal"

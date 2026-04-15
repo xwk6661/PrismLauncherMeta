@@ -50,7 +50,7 @@
                     "path": "com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar",
                     "sha1": "852f8b363da0111e819460021ca693cacca3e8db",
                     "size": 3079289,
-                    "url": "https://libraries.minecraft.net/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
                 }
             },
             "name": "com.google.guava:guava:33.3.1-jre"
@@ -61,7 +61,7 @@
                     "path": "com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar",
                     "sha1": "c4a06a64e650562f30b7bf9aaec1bfed43aca12b",
                     "size": 4740,
-                    "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
                 }
             },
             "name": "com.google.guava:failureaccess:1.0.2"
@@ -182,7 +182,7 @@
                     "path": "com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar",
                     "sha1": "852f8b363da0111e819460021ca693cacca3e8db",
                     "size": 3079289,
-                    "url": "https://libraries.minecraft.net/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
                 }
             },
             "name": "com.google.guava:guava:33.3.1-jre"
@@ -193,7 +193,7 @@
                     "path": "com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar",
                     "sha1": "c4a06a64e650562f30b7bf9aaec1bfed43aca12b",
                     "size": 4740,
-                    "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
                 }
             },
             "name": "com.google.guava:failureaccess:1.0.2"
@@ -325,7 +325,7 @@
                     "path": "org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar",
                     "sha1": "7425a601c1c7ec76645a78d22b8c6a627edee507",
                     "size": 3819,
-                    "url": "https://libraries.minecraft.net/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar"
                 }
             },
             "name": "org.jspecify:jspecify:1.0.0"
@@ -613,7 +613,7 @@
                     "path": "com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
                     "sha1": "b3add478d4382b78ea20b1671390a858002feb6c",
                     "size": 283367,
-                    "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
                 }
             },
             "name": "com.google.code.gson:gson:2.10.1"

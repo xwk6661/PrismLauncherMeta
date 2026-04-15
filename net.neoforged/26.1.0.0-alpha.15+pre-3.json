@@ -305,7 +305,7 @@
                 "artifact": {
                     "sha1": "646dfd85360ff7726f585bde455187018694827e",
                     "size": 11178707,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.0.0-alpha.15+pre-3/neoforge-26.1.0.0-alpha.15+pre-3-installer.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/26.1.0.0-alpha.15+pre-3/neoforge-26.1.0.0-alpha.15+pre-3-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:26.1.0.0-alpha.15+pre-3:installer"
@@ -635,7 +635,7 @@
                     "path": "net/neoforged/neoforge/26.1.0.0-alpha.15+pre-3/neoforge-26.1.0.0-alpha.15+pre-3-universal.jar",
                     "sha1": "60a2a6ede7ef3e3f994114359f5e1696387ab402",
                     "size": 7449315,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.0.0-alpha.15+pre-3/neoforge-26.1.0.0-alpha.15+pre-3-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/26.1.0.0-alpha.15+pre-3/neoforge-26.1.0.0-alpha.15+pre-3-universal.jar"
                 }
             },
             "name": "net.neoforged:neoforge:26.1.0.0-alpha.15+pre-3:universal"

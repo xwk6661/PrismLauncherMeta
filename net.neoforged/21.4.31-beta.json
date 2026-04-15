@@ -1240,7 +1240,7 @@
                     "path": "net/neoforged/neoforge/21.4.31-beta/neoforge-21.4.31-beta-universal.jar",
                     "sha1": "7223a1f5143050bf43cfa37054744276ba14e0d4",
                     "size": 3071316,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.31-beta/neoforge-21.4.31-beta-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/21.4.31-beta/neoforge-21.4.31-beta-universal.jar"
                 }
             },
             "name": "net.neoforged:neoforge:21.4.31-beta:universal"

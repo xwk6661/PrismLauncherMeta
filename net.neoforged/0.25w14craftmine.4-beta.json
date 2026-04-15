@@ -292,7 +292,7 @@
                     "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
                     "sha1": "4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c",
                     "size": 78146,
-                    "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
                 }
             },
             "name": "net.sf.jopt-simple:jopt-simple:5.0.4"
@@ -314,7 +314,7 @@
                     "path": "org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar",
                     "sha1": "0172931663a09a1fa515567af5fbef00897d3c04",
                     "size": 69435,
-                    "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar"
                 }
             },
             "name": "org.slf4j:slf4j-api:2.0.16"
@@ -325,7 +325,7 @@
                     "path": "com/mojang/logging/1.5.10/logging-1.5.10.jar",
                     "sha1": "9ab1202793717af9df9c1704d0a02892067001eb",
                     "size": 19800,
-                    "url": "https://libraries.minecraft.net/com/mojang/logging/1.5.10/logging-1.5.10.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/mojang/logging/1.5.10/logging-1.5.10.jar"
                 }
             },
             "name": "com.mojang:logging:1.5.10"
@@ -358,7 +358,7 @@
                     "path": "commons-io/commons-io/2.17.0/commons-io-2.17.0.jar",
                     "sha1": "ddcc8433eb019fb48fe25207c0278143f3e1d7e2",
                     "size": 515978,
-                    "url": "https://libraries.minecraft.net/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"
                 }
             },
             "name": "commons-io:commons-io:2.17.0"
@@ -380,7 +380,7 @@
                     "path": "com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar",
                     "sha1": "852f8b363da0111e819460021ca693cacca3e8db",
                     "size": 3079289,
-                    "url": "https://libraries.minecraft.net/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
                 }
             },
             "name": "com.google.guava:guava:33.3.1-jre"
@@ -391,7 +391,7 @@
                     "path": "com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar",
                     "sha1": "c4a06a64e650562f30b7bf9aaec1bfed43aca12b",
                     "size": 4740,
-                    "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
                 }
             },
             "name": "com.google.guava:failureaccess:1.0.2"
@@ -402,7 +402,7 @@
                     "path": "com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
                     "sha1": "b421526c5f297295adef1c886e5246c39d4ac629",
                     "size": 2199,
-                    "url": "https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
                 }
             },
             "name": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"
@@ -413,7 +413,7 @@
                     "path": "com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
                     "sha1": "25ea2e8b0c338a877313bd4672d3fe056ea78f0d",
                     "size": 19936,
-                    "url": "https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
                 }
             },
             "name": "com.google.code.findbugs:jsr305:3.0.2"
@@ -424,7 +424,7 @@
                     "path": "org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar",
                     "sha1": "9425eee39e56b116d2b998b7c2cebcbd11a3c98b",
                     "size": 231525,
-                    "url": "https://libraries.minecraft.net/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar"
                 }
             },
             "name": "org.checkerframework:checker-qual:3.43.0"
@@ -435,7 +435,7 @@
                     "path": "com/google/code/gson/gson/2.11.0/gson-2.11.0.jar",
                     "sha1": "527175ca6d81050b53bdd4c457a6d6e017626b0e",
                     "size": 298435,
-                    "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar"
                 }
             },
             "name": "com.google.code.gson:gson:2.11.0"
@@ -457,7 +457,7 @@
                     "path": "com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar",
                     "sha1": "7399e65dd7e9ff3404f4535b2f017093bdb134c7",
                     "size": 12467,
-                    "url": "https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar"
                 }
             },
             "name": "com.google.j2objc:j2objc-annotations:3.0.0"
@@ -479,7 +479,7 @@
                     "path": "org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar",
                     "sha1": "b17d2136f0460dcc0d2016ceefca8723bdf4ee70",
                     "size": 673587,
-                    "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
                 }
             },
             "name": "org.apache.commons:commons-lang3:3.17.0"
@@ -503,7 +503,7 @@
                 "artifact": {
                     "sha1": "d85e94c62d6c6518f8a93541c22cb66c3301b39d",
                     "size": 7376542,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/0.25w14craftmine.4-beta/neoforge-0.25w14craftmine.4-beta-installer.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/0.25w14craftmine.4-beta/neoforge-0.25w14craftmine.4-beta-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:0.25w14craftmine.4-beta:installer"
@@ -789,7 +789,7 @@
                     "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
                     "sha1": "4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c",
                     "size": 78146,
-                    "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
                 }
             },
             "name": "net.sf.jopt-simple:jopt-simple:5.0.4"
@@ -811,7 +811,7 @@
                     "path": "org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar",
                     "sha1": "0172931663a09a1fa515567af5fbef00897d3c04",
                     "size": 69435,
-                    "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar"
                 }
             },
             "name": "org.slf4j:slf4j-api:2.0.16"
@@ -822,7 +822,7 @@
                     "path": "com/mojang/logging/1.5.10/logging-1.5.10.jar",
                     "sha1": "9ab1202793717af9df9c1704d0a02892067001eb",
                     "size": 19800,
-                    "url": "https://libraries.minecraft.net/com/mojang/logging/1.5.10/logging-1.5.10.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/mojang/logging/1.5.10/logging-1.5.10.jar"
                 }
             },
             "name": "com.mojang:logging:1.5.10"
@@ -855,7 +855,7 @@
                     "path": "commons-io/commons-io/2.17.0/commons-io-2.17.0.jar",
                     "sha1": "ddcc8433eb019fb48fe25207c0278143f3e1d7e2",
                     "size": 515978,
-                    "url": "https://libraries.minecraft.net/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"
                 }
             },
             "name": "commons-io:commons-io:2.17.0"
@@ -877,7 +877,7 @@
                     "path": "com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar",
                     "sha1": "852f8b363da0111e819460021ca693cacca3e8db",
                     "size": 3079289,
-                    "url": "https://libraries.minecraft.net/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
                 }
             },
             "name": "com.google.guava:guava:33.3.1-jre"
@@ -888,7 +888,7 @@
                     "path": "com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar",
                     "sha1": "c4a06a64e650562f30b7bf9aaec1bfed43aca12b",
                     "size": 4740,
-                    "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
                 }
             },
             "name": "com.google.guava:failureaccess:1.0.2"
@@ -899,7 +899,7 @@
                     "path": "com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
                     "sha1": "b421526c5f297295adef1c886e5246c39d4ac629",
                     "size": 2199,
-                    "url": "https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
                 }
             },
             "name": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"
@@ -910,7 +910,7 @@
                     "path": "com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
                     "sha1": "25ea2e8b0c338a877313bd4672d3fe056ea78f0d",
                     "size": 19936,
-                    "url": "https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
                 }
             },
             "name": "com.google.code.findbugs:jsr305:3.0.2"
@@ -921,7 +921,7 @@
                     "path": "org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar",
                     "sha1": "9425eee39e56b116d2b998b7c2cebcbd11a3c98b",
                     "size": 231525,
-                    "url": "https://libraries.minecraft.net/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar"
                 }
             },
             "name": "org.checkerframework:checker-qual:3.43.0"
@@ -932,7 +932,7 @@
                     "path": "com/google/code/gson/gson/2.11.0/gson-2.11.0.jar",
                     "sha1": "527175ca6d81050b53bdd4c457a6d6e017626b0e",
                     "size": 298435,
-                    "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar"
                 }
             },
             "name": "com.google.code.gson:gson:2.11.0"
@@ -954,7 +954,7 @@
                     "path": "com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar",
                     "sha1": "7399e65dd7e9ff3404f4535b2f017093bdb134c7",
                     "size": 12467,
-                    "url": "https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar"
                 }
             },
             "name": "com.google.j2objc:j2objc-annotations:3.0.0"
@@ -976,7 +976,7 @@
                     "path": "org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar",
                     "sha1": "b17d2136f0460dcc0d2016ceefca8723bdf4ee70",
                     "size": 673587,
-                    "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
                 }
             },
             "name": "org.apache.commons:commons-lang3:3.17.0"
@@ -1064,7 +1064,7 @@
                     "path": "com/google/code/gson/gson/2.8.9/gson-2.8.9.jar",
                     "sha1": "8a432c1d6825781e21a02db2e2c33c5fde2833b9",
                     "size": 258075,
-                    "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar"
                 }
             },
             "name": "com.google.code.gson:gson:2.8.9"
@@ -1152,7 +1152,7 @@
                     "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
                     "sha1": "8e6300ef51c1d801a7ed62d07cd221aca3a90640",
                     "size": 122176,
-                    "url": "https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/org/ow2/asm/asm/9.3/asm-9.3.jar"
                 }
             },
             "name": "org.ow2.asm:asm:9.3"
@@ -1207,7 +1207,7 @@
                     "path": "commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
                     "sha1": "4bfc12adfe4842bf07b657f0369c4cb522955686",
                     "size": 61829,
-                    "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"
                 }
             },
             "name": "commons-logging:commons-logging:1.2"
@@ -1240,7 +1240,7 @@
                     "path": "net/neoforged/neoforge/0.25w14craftmine.4-beta/neoforge-0.25w14craftmine.4-beta-universal.jar",
                     "sha1": "a8434aae65543d75b51739a9c32baeacf016b66f",
                     "size": 3070257,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/0.25w14craftmine.4-beta/neoforge-0.25w14craftmine.4-beta-universal.jar"
+                    "url": "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/0.25w14craftmine.4-beta/neoforge-0.25w14craftmine.4-beta-universal.jar"
                 }
             },
             "name": "net.neoforged:neoforge:0.25w14craftmine.4-beta:universal"

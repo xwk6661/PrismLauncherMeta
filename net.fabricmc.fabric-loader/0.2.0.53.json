@@ -30,7 +30,7 @@
         },
         {
             "name": "net.fabricmc:fabric-loader:0.2.0.53",
-            "url": "https://maven.fabricmc.net"
+            "url": "https://bmclapi2.bangbang93.com/maven"
         }
     ],
     "mainClass": "net.minecraft.launchwrapper.Launch",
