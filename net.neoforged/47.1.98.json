@@ -17,7 +17,7 @@
                     "path": "net/neoforged/fancymodloader/loader/47.2.2/loader-47.2.2.jar",
                     "sha1": "e29a838f13be8ba241211b8cb33d007bc5ff7926",
                     "size": 267183,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/47.2.2/loader-47.2.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/loader/47.2.2/loader-47.2.2.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:loader:47.2.2"
@@ -28,7 +28,7 @@
                     "path": "net/neoforged/fancymodloader/earlydisplay/47.2.2/earlydisplay-47.2.2.jar",
                     "sha1": "8bcfaa1053ee270b5131a6e95135210e6e039fcd",
                     "size": 260383,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/47.2.2/earlydisplay-47.2.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/earlydisplay/47.2.2/earlydisplay-47.2.2.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:earlydisplay:47.2.2"
@@ -336,7 +336,7 @@
                     "path": "net/neoforged/fancymodloader/events/47.2.2/events-47.2.2.jar",
                     "sha1": "7cd6d6112be32a3f0d806ccf164ff9c1d21c7a27",
                     "size": 14661,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/events/47.2.2/events-47.2.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/events/47.2.2/events-47.2.2.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:events:47.2.2"
@@ -347,7 +347,7 @@
                     "path": "net/neoforged/fancymodloader/core/47.2.2/core-47.2.2.jar",
                     "sha1": "27c66a2985d8f0226d2b397fdd4bc5f6a5923ac2",
                     "size": 117581,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/core/47.2.2/core-47.2.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/core/47.2.2/core-47.2.2.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:core:47.2.2"
@@ -358,7 +358,7 @@
                     "path": "net/neoforged/fancymodloader/language-java/47.2.2/language-java-47.2.2.jar",
                     "sha1": "8fdb1b51a9e5cb1ca82634263039012601b32317",
                     "size": 17440,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-java/47.2.2/language-java-47.2.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/language-java/47.2.2/language-java-47.2.2.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:language-java:47.2.2"
@@ -369,7 +369,7 @@
                     "path": "net/neoforged/fancymodloader/language-lowcode/47.2.2/language-lowcode-47.2.2.jar",
                     "sha1": "e8f72140a147fea3ca0d75e6548cc505c0b9cc9e",
                     "size": 7333,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-lowcode/47.2.2/language-lowcode-47.2.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/language-lowcode/47.2.2/language-lowcode-47.2.2.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:language-lowcode:47.2.2"
@@ -380,7 +380,7 @@
                     "path": "net/neoforged/fancymodloader/language-minecraft/47.2.2/language-minecraft-47.2.2.jar",
                     "sha1": "6b986e48b9fc90aaf550a0445e635983398a41c1",
                     "size": 4933,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-minecraft/47.2.2/language-minecraft-47.2.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/language-minecraft/47.2.2/language-minecraft-47.2.2.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:language-minecraft:47.2.2"

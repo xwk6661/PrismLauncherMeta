@@ -17,7 +17,7 @@
                     "path": "net/neoforged/fancymodloader/earlydisplay/2.0.1/earlydisplay-2.0.1.jar",
                     "sha1": "3fb5871aa38bfcffe32428eb71aa5219ecfcebff",
                     "size": 260147,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/2.0.1/earlydisplay-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/earlydisplay/2.0.1/earlydisplay-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:earlydisplay:2.0.1"
@@ -28,7 +28,7 @@
                     "path": "net/neoforged/fancymodloader/core/2.0.1/core-2.0.1.jar",
                     "sha1": "dedd7c735381b2feaafa053da3899ad48a0bd583",
                     "size": 118033,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/core/2.0.1/core-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/core/2.0.1/core-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:core:2.0.1"
@@ -39,7 +39,7 @@
                     "path": "net/neoforged/fancymodloader/loader/2.0.1/loader-2.0.1.jar",
                     "sha1": "11c3c571552537971e1a907562596a85f9057567",
                     "size": 266553,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/2.0.1/loader-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/loader/2.0.1/loader-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:loader:2.0.1"
@@ -50,7 +50,7 @@
                     "path": "net/neoforged/coremods/6.0.2/coremods-6.0.2.jar",
                     "sha1": "74c047103e2268ef9688db18a4df28973f962749",
                     "size": 24182,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/coremods/6.0.2/coremods-6.0.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/coremods/6.0.2/coremods-6.0.2.jar"
                 }
             },
             "name": "net.neoforged:coremods:6.0.2"
@@ -94,7 +94,7 @@
                     "path": "net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar",
                     "sha1": "5aba50202aceead086bc09fbc2751c9f05cb4890",
                     "size": 2347,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
                 }
             },
             "name": "net.neoforged.accesstransformers:at-modlauncher:10.0.1"
@@ -105,7 +105,7 @@
                     "path": "net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar",
                     "sha1": "fd83b5725f76eae9115e9355fa1c456a6a441400",
                     "size": 67234,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
                 }
             },
             "name": "net.neoforged:accesstransformers:10.0.1"
@@ -138,7 +138,7 @@
                     "path": "net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar",
                     "sha1": "52fe1949be64e3303aabaaa21e315f551db9c9f4",
                     "size": 2550,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
                 }
             },
             "name": "net.neoforged:mergetool:2.0.0:api"
@@ -182,7 +182,7 @@
                     "path": "net/neoforged/bus/7.2.0/bus-7.2.0.jar",
                     "sha1": "03bc91f330d0e2f350ab1dbe5026a5769dc52b9a",
                     "size": 35117,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/bus/7.2.0/bus-7.2.0.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/bus/7.2.0/bus-7.2.0.jar"
                 }
             },
             "name": "net.neoforged:bus:7.2.0"
@@ -237,7 +237,7 @@
                     "path": "net/neoforged/JarJarSelector/0.4.0/JarJarSelector-0.4.0.jar",
                     "sha1": "122fa3fe21da1a0ace8323709197616cdb4d1416",
                     "size": 17198,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.4.0/JarJarSelector-0.4.0.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/JarJarSelector/0.4.0/JarJarSelector-0.4.0.jar"
                 }
             },
             "name": "net.neoforged:JarJarSelector:0.4.0"
@@ -248,7 +248,7 @@
                     "path": "net/neoforged/JarJarMetadata/0.4.0/JarJarMetadata-0.4.0.jar",
                     "sha1": "06f5e5c52382d11a15f47ca030e046519e389456",
                     "size": 15676,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.4.0/JarJarMetadata-0.4.0.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/JarJarMetadata/0.4.0/JarJarMetadata-0.4.0.jar"
                 }
             },
             "name": "net.neoforged:JarJarMetadata:0.4.0"
@@ -523,7 +523,7 @@
                     "path": "net/neoforged/fancymodloader/language-java/2.0.1/language-java-2.0.1.jar",
                     "sha1": "8865fdc1413f548775bda86453d6994f94b54c8b",
                     "size": 17857,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-java/2.0.1/language-java-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/language-java/2.0.1/language-java-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:language-java:2.0.1"
@@ -534,7 +534,7 @@
                     "path": "net/neoforged/fancymodloader/language-lowcode/2.0.1/language-lowcode-2.0.1.jar",
                     "sha1": "bfae893f09497095ec9b37896cc743f84f7dab22",
                     "size": 7236,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-lowcode/2.0.1/language-lowcode-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/language-lowcode/2.0.1/language-lowcode-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:language-lowcode:2.0.1"
@@ -545,7 +545,7 @@
                     "path": "net/neoforged/fancymodloader/language-minecraft/2.0.1/language-minecraft-2.0.1.jar",
                     "sha1": "60845db995da2b740498980a2c701f83319e9dac",
                     "size": 4975,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-minecraft/2.0.1/language-minecraft-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/language-minecraft/2.0.1/language-minecraft-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:language-minecraft:2.0.1"
@@ -556,7 +556,7 @@
                     "path": "net/neoforged/fancymodloader/events/2.0.1/events-2.0.1.jar",
                     "sha1": "5d97d5587cadc1190985ab065ce0c4b90fed381f",
                     "size": 14357,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/events/2.0.1/events-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/events/2.0.1/events-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:events:2.0.1"
@@ -578,7 +578,7 @@
                     "path": "net/neoforged/JarJarFileSystems/0.4.0/JarJarFileSystems-0.4.0.jar",
                     "sha1": "ef7e5716525bbe50c784a362f9393457a33e6daf",
                     "size": 31835,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarFileSystems/0.4.0/JarJarFileSystems-0.4.0.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/JarJarFileSystems/0.4.0/JarJarFileSystems-0.4.0.jar"
                 }
             },
             "name": "net.neoforged:JarJarFileSystems:0.4.0"
@@ -2065,7 +2065,7 @@
                     "path": "net/neoforged/fancymodloader/earlydisplay/2.0.1/earlydisplay-2.0.1.jar",
                     "sha1": "3fb5871aa38bfcffe32428eb71aa5219ecfcebff",
                     "size": 260147,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/2.0.1/earlydisplay-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/earlydisplay/2.0.1/earlydisplay-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:earlydisplay:2.0.1"
@@ -2076,7 +2076,7 @@
                     "path": "net/neoforged/fancymodloader/core/2.0.1/core-2.0.1.jar",
                     "sha1": "dedd7c735381b2feaafa053da3899ad48a0bd583",
                     "size": 118033,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/core/2.0.1/core-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/core/2.0.1/core-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:core:2.0.1"
@@ -2087,7 +2087,7 @@
                     "path": "net/neoforged/fancymodloader/loader/2.0.1/loader-2.0.1.jar",
                     "sha1": "11c3c571552537971e1a907562596a85f9057567",
                     "size": 266553,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/2.0.1/loader-2.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/fancymodloader/loader/2.0.1/loader-2.0.1.jar"
                 }
             },
             "name": "net.neoforged.fancymodloader:loader:2.0.1"
@@ -2098,7 +2098,7 @@
                     "path": "net/neoforged/coremods/6.0.2/coremods-6.0.2.jar",
                     "sha1": "74c047103e2268ef9688db18a4df28973f962749",
                     "size": 24182,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/coremods/6.0.2/coremods-6.0.2.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/coremods/6.0.2/coremods-6.0.2.jar"
                 }
             },
             "name": "net.neoforged:coremods:6.0.2"
@@ -2142,7 +2142,7 @@
                     "path": "net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar",
                     "sha1": "5aba50202aceead086bc09fbc2751c9f05cb4890",
                     "size": 2347,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
                 }
             },
             "name": "net.neoforged.accesstransformers:at-modlauncher:10.0.1"
@@ -2153,7 +2153,7 @@
                     "path": "net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar",
                     "sha1": "fd83b5725f76eae9115e9355fa1c456a6a441400",
                     "size": 67234,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
                 }
             },
             "name": "net.neoforged:accesstransformers:10.0.1"
@@ -2186,7 +2186,7 @@
                     "path": "net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar",
                     "sha1": "52fe1949be64e3303aabaaa21e315f551db9c9f4",
                     "size": 2550,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
                 }
             },
             "name": "net.neoforged:mergetool:2.0.0:api"
@@ -2230,7 +2230,7 @@
                     "path": "net/neoforged/bus/7.2.0/bus-7.2.0.jar",
                     "sha1": "03bc91f330d0e2f350ab1dbe5026a5769dc52b9a",
                     "size": 35117,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/bus/7.2.0/bus-7.2.0.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/bus/7.2.0/bus-7.2.0.jar"
                 }
             },
             "name": "net.neoforged:bus:7.2.0"
@@ -2285,7 +2285,7 @@
                     "path": "net/neoforged/JarJarSelector/0.4.0/JarJarSelector-0.4.0.jar",
                     "sha1": "122fa3fe21da1a0ace8323709197616cdb4d1416",
                     "size": 17198,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.4.0/JarJarSelector-0.4.0.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/JarJarSelector/0.4.0/JarJarSelector-0.4.0.jar"
                 }
             },
             "name": "net.neoforged:JarJarSelector:0.4.0"
@@ -2296,7 +2296,7 @@
                     "path": "net/neoforged/JarJarMetadata/0.4.0/JarJarMetadata-0.4.0.jar",
                     "sha1": "06f5e5c52382d11a15f47ca030e046519e389456",
                     "size": 15676,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.4.0/JarJarMetadata-0.4.0.jar"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/JarJarMetadata/0.4.0/JarJarMetadata-0.4.0.jar"
                 }
             },
             "name": "net.neoforged:JarJarMetadata:0.4.0"
@@ -2351,7 +2351,7 @@
                     "path": "net/neoforged/neoform/1.20.4-20231207.154220/neoform-1.20.4-20231207.154220.zip",
                     "sha1": "ad0bdcc5c21199e1a9cb05836f9660c22830a4fe",
                     "size": 1785114,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoform/1.20.4-20231207.154220/neoform-1.20.4-20231207.154220.zip"
+                    "url": "bmclapi2.bangbang93.com/maven/net/neoforged/neoform/1.20.4-20231207.154220/neoform-1.20.4-20231207.154220.zip"
                 }
             },
             "name": "net.neoforged:neoform:1.20.4-20231207.154220@zip"
